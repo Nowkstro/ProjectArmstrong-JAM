@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: be12f31ad7526cf458bb4a920427f2ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5327322649131653594
+    second: guarda 1 com lanterna_0
+  - first:
+      213: 1315697355961677277
+    second: guarda 1 com lanterna_1
+  - first:
+      213: -2425588046864868588
+    second: guarda 1 com lanterna_2
+  - first:
+      213: 7570597780278601800
+    second: guarda 1 com lanterna_3
+  - first:
+      213: -8956264009331931125
+    second: guarda 1 com lanterna_4
+  - first:
+      213: -2766664122627341555
+    second: guarda 1 com lanterna_5
+  - first:
+      213: 5648727087794068020
+    second: guarda 1 com lanterna_6
+  - first:
+      213: 3901035830225008309
+    second: guarda 1 com lanterna_7
+  - first:
+      213: -930126831279038455
+    second: guarda 1 com lanterna_8
+  - first:
+      213: -2284664553609739957
+    second: guarda 1 com lanterna_9
+  - first:
+      213: 7641904147058458721
+    second: guarda 1 com lanterna_10
+  - first:
+      213: -1808943074244021192
+    second: guarda 1 com lanterna_11
+  - first:
+      213: 1098012313770363367
+    second: guarda 1 com lanterna_12
+  - first:
+      213: -4876662517923999713
+    second: guarda 1 com lanterna_13
+  - first:
+      213: -5726174660042448215
+    second: guarda 1 com lanterna_14
+  - first:
+      213: -5621274372792687459
+    second: guarda 1 com lanterna_15
+  - first:
+      213: 8291775401333285990
+    second: guarda 1 com lanterna_16
+  - first:
+      213: 6380261661898257122
+    second: guarda 1 com lanterna_17
+  - first:
+      213: 4968675556695230900
+    second: guarda 1 com lanterna_18
+  - first:
+      213: 3840569042860540696
+    second: guarda 1 com lanterna_19
+  - first:
+      213: -3258228525312408970
+    second: guarda 1 com lanterna_20
+  - first:
+      213: -8119395691964121865
+    second: guarda 1 com lanterna_21
+  - first:
+      213: -9123857713436563646
+    second: guarda 1 com lanterna_22
+  - first:
+      213: 5173179714676257389
+    second: guarda 1 com lanterna_23
+  - first:
+      213: -75861133626270204
+    second: guarda 1 com lanterna_0
+  - first:
+      213: -6567584830077647748
+    second: guarda 1 com lanterna_1
+  - first:
+      213: -6262545494497591915
+    second: guarda 1 com lanterna_2
+  - first:
+      213: -7298006247998145946
+    second: guarda 1 com lanterna_3
+  - first:
+      213: 577491907791370177
+    second: guarda 1 com lanterna_4
+  - first:
+      213: -8368947127013728604
+    second: guarda 1 com lanterna_5
+  - first:
+      213: -3771117860933351495
+    second: guarda 1 com lanterna_6
+  - first:
+      213: 1437673993294073528
+    second: guarda 1 com lanterna_7
+  - first:
+      213: 7240382408199702143
+    second: guarda 1 com lanterna_8
+  - first:
+      213: -3318421755959342700
+    second: guarda 1 com lanterna_9
+  - first:
+      213: 8756982836853382465
+    second: guarda 1 com lanterna_10
+  - first:
+      213: 5522004478300340710
+    second: guarda 1 com lanterna_11
+  - first:
+      213: 6613097298696986153
+    second: guarda 1 com lanterna_12
+  - first:
+      213: -721348846732752282
+    second: guarda 1 com lanterna_13
+  - first:
+      213: -1321440903143606020
+    second: guarda 1 com lanterna_14
+  - first:
+      213: 1442474059401088703
+    second: guarda 1 com lanterna_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: guarda 1 com lanterna_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e92fd63bc72fef0800000000000000
+      internalID: -75861133626270204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarda 1 com lanterna_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c744af2c4604bd4a0800000000000000
+      internalID: -6567584830077647748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarda 1 com lanterna_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d7fba9d08f619a0800000000000000
+      internalID: -6262545494497591915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarda 1 com lanterna_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a3d73ebf548ba90800000000000000
+      internalID: -7298006247998145946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarda 1 com lanterna_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7319894d9a30800800000000000000
+      internalID: 577491907791370177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarda 1 com lanterna_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae1256bde68bdb80800000000000000
+      internalID: -8368947127013728604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarda 1 com lanterna_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7cfe4294c4aabc0800000000000000
+      internalID: -3771117860933351495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarda 1 com lanterna_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be4c1931e4a3f310800000000000000
+      internalID: 1437673993294073528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarda 1 com lanterna_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f760bb660710b7460800000000000000
+      internalID: 7240382408199702143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarda 1 com lanterna_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4998d15aef892f1d0800000000000000
+      internalID: -3318421755959342700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarda 1 com lanterna_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d96de5e7d078970800000000000000
+      internalID: 8756982836853382465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarda 1 com lanterna_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e14531f0d912ac40800000000000000
+      internalID: 5522004478300340710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarda 1 com lanterna_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92edde994f076cb50800000000000000
+      internalID: 6613097298696986153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarda 1 com lanterna_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a4b57bb014df5f0800000000000000
+      internalID: -721348846732752282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarda 1 com lanterna_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf83478ff7c49ade0800000000000000
+      internalID: -1321440903143606020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guarda 1 com lanterna_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe4154b382b40410800000000000000
+      internalID: 1442474059401088703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{f620718f-89a6-4af8-a222-d121e6c09681}">
+		<property name="assetPath">
+			<value>sfx/bity_lanterna_foco aberto.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.47999999999999998</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{1e59ec22-1f5f-41c4-bdad-0c695e0212cb}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,113 @@
+[
+  {"Terry": "BT do your magic!"},
+  //cutscene 
+  //
+  {"Terry": "My God ... Alice was right, she's an Armstrong ... That changes everything ..."},
+  //cutscene 
+  {"BT": "For my saved data, sir, she needs some adjustments and concerts, but it is possible that she may be able to fly."},
+  {"Terry": "Great, I can't wait to bring the camp people here and start working..."},
+  {"Sonia": "Hey you!?"},
+  //In cutscene appear Sonia and Mad
+  {"Sonia": "Who are you and how did you find this place?"},
+  {"Terry": "I ask, who are you?"},
+  {"Sonia": "Mad, arrest him..."},
+  {"Mad": "Only if it is now..."},
+  {"Terry": "Wait! I heard about this ship and came to see if it was real ... There was data on this robot that indicated where this ship was, I just wanted to see it again and ... Well, I've worked here before."},
+  {"Sonia": "Were you GSA employee?"},
+  {"Terry": "Yes, I was an Aerospace Engineer ... I honestly thought I was abandoned and wanted to use it to leave Earth ..."},
+  {"Sonia": "Mad..."},
+  {"Terry": "Why were you suddenly silent?"},
+  {"Sonia": "You can't take it"},
+  {"Terry": "From what I see of your clean clothes, they are from GSA and are living here ... But why didn't you use the ship to get out of here?"},
+  {"Sonia": "..."},
+  //Mad wait a moment
+  {"Terry": "You already know that she is defective, right?"},
+  {"Sonia": "..."},
+  {"Terry": "Haha... Lucky for you that I am what I am and that I already worked on those ships."},
+  {"Sonia": "What does this have to do with? "},
+  {"Terry": "Well, I suggest you allow me ...!? Hun? What's your name, miss?"},
+  {"Sonia": "Look seriously."},
+  {"Terry": "Naughty smile."},
+  {"Sonia": "Doctor Sonia..."},
+  {"Terry": "Okay, Dr. Sonia, I suggest you allow me to fix the ship and in return I want to go with you to planet W-01, I believe this is where you plan to go, right?"},
+  {"Mad": "Right..."},
+  {"Terry": "But ... I want to take my friends from my camp with me ..."},
+  {"Sonia": "And what guarantee will we have that he will do what he promised and fix the ship?"},
+  {"Terry": "You will have to trust me persona doctor."},
+  {"Sonia": "thoughtful"},
+  {"Sonia": "Alright"},
+  {"Mad": "Sonia..."},
+  {"Sonia": "No, Mad, we need help and unfortunately, we don't have anyone who knows these ships, this one ... What's your name?"},
+  {"Terry": "I'm Terry and this is BT, say hi buddy!"},
+  {"BT": "Hi!"},
+  {"Sonia": "This Terry here, can be useful to us, I'm a Planetary Engineer, I know how to deal with terraforming, this is Terry's area I don't have much knowledge."},
+  {"Mad": "Okay, I don't like that decision, but that's okay."},
+  {"Sonia": "Know what Terry can do and fix our ship, then you can participate in our trip."},
+  {"Terry": "Leave it to me!"},
+  {"BT": "I want you to scan the ship and look for repairs that we need to do, and tell me everything I need, can you do that buddy?"},
+  {"BT": "You can leave Mr. Terry, that's it!"},
+  //{"BT": "scans the ship."},
+  {"BT": "Mr. Terry, the ship needs five pieces to fix the engines and the launch system for it."},
+  {"Terry": "Then do another scan of the area we are in and let me know ..."},
+  {"BT": "I already did, sir, luckily, we have four pieces in this bunker, but one of the pieces is not here, it is in this territory here."},
+  //On the mini map the location appears, Terry recognizes it as a looters' camp.
+  {"Terry": "Damn it! Simon you bastard ... Sonia, we have a problem, one of the pieces we need is in the looters' territory."},
+  {"Sonia": "Yes, we are aware, we were robbed a few months ago, they came and only took a few things, they saw that we don't have much to offer, I didn't know they had taken such a piece."},
+  {"Terry": "They are looters, they are not known for their intelligence ... Simon and his henchmen must have taken it thinking that it was something that would interest them, but now I have to go and get it back ... BT stay here, I'll go alone this time."},
+  {"BT": "Yes sir, sir!"},
+  //cutscene 
+  {"Looter": "I won't let you escape!"},
+  {"Terry": "You bastard, even stealing GSA pieces you have stolen."},
+  {"Looter": "Business is business!"},
+  //Mad appears
+  {"Terry": "Mad what are you doing here?"},
+  {"Mad": "Sonia sent me, she doesn't trust you 100%."},
+  {"Terry": "And you? Why didn't you help me?"},
+  {"Mad": "There, you seemed to be handling all this well, look at all these bodies!"},
+  {"Terry": "..."},
+  //Mission complete
+  {"BT": "Hello sir, did you get it?"},
+  {"Terry": "Yes ... 'It says a little annoyed.' Next time, send your henchman to go with me, since you don't trust me, doctor ... "},
+  {"Sonia": "But what? What happened?"},
+  {"Terry": "Nothing"},
+  //Terry leaves the scene
+
+  //{"Sonia": "At night, it shows Terry's room, plus the corridor outside, and it is visible."}
+  //Sonia would pass by and hear Terry:
+
+  {"Sonia": "I miss her so much BT ..."},
+  {"BT": "Also, sir, for me it was like yesterday ... But just to imagine that she has been there for five years ..."},
+  {"Terry": "Sometimes I blame myself for our separation, I wanted to protect her by giving up my place on that damn ship"},
+  {"Sonia": "... 'what the hell' ... Sonia on the other side of the door: ... 'who is he talking about?'"},
+  //cutscene
+  {"Terry": "Today is BT, today is the time to get out of it!"},
+  {"BT": "That's it! Terry goes to the ship's location and meets Sonia."},
+  {"BT": "Good morning Miss Sonia!"},
+  {"Sonia": "Good morning BT.Terry ... "},
+  {"Terry": "... doctor ..."},
+  //Sonia starts to leave, turning her back on Terry
+  {"Terry": "doctor, I'm sorry for yesterday."},
+  {"Sonia": "Sonia turns around. Relax, you were tired ... But I didn't understand what you meant by sending my henchman..."},
+  //Mad appears and interrupts her.
+  {"Mad": "What's up, doctor, ready to get out of here? Terry, little robot, good morning gentlemen!"},
+  {"BT": "Good morning, Mr. Mad!"},
+  {"Sonia": "Oh, hi Mad, I think so, are we ready to install the last part Terry? This changes Terry's countenance instantly."},
+  {"Terry": "I think I was born for that, doctor! “Says smiling” Terry installs the last part of the missing ship."},
+  {"Terry": "Everyone can enter, I just have to make one last adjustment to the ship, it is done from the outside, I need to reset the ship so that everything is in compliance."},
+  {"Sonia": "But this is done outside the ship? Why not inside?"},
+  {"Terry": "Doctor, I didn't design this here ... I just built and fixed these bathtubs."},
+  {"Sonia": "I know idiot ..."},
+  {"Terry": "Well it's just a prototype, maybe in the version that went to planet W-01, this system is internal, who knows."},
+  {"Sonia": "It makes sense ... If I knew that when we built these ships, I would send the person in charge on the street right away ..."},
+  //And Sonia enters. Terry goes to the console on which he needs to reset.
+  {"Terry": "BT?"},
+  {"BT": "Yes, Mr.Terry?"},
+  {"Terry": "Can I tell you a secret?"},
+  {"BT": "Always Mr. Terry!"},
+  {"Terry": "I am responsible for this detail on the ship..."},
+  //cutscene
+  {"Terry:": "Everything ready buddy!"},
+  {"BT": "Let's rescue Alice! Terry arrives at the captain's office where Sonia, Mad, Ana and everyone else are"},
+  {"Sonia": "Mad, you can launch the ship."}
+  //Mad leave it. Cut to the scene in whick the ship is in the process of taking off.
+]

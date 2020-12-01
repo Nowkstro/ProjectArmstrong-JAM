@@ -1,0 +1,192 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: f0f6b93cd494d4b44afaa36735e0719f, type: 3}
+    totalSpriteSurfaceArea: 14776945
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ea785460bdf116740bca726c23fb74bd, type: 3}
+  - {fileID: -7406141934080893924, guid: 0219428060d487d498bf63ce51d396fc, type: 3}
+  - {fileID: 7121819778050679306, guid: a57b07a0a7ec6cb45b17e3383b71f20e, type: 3}
+  - {fileID: 21300000, guid: 9a940cb01ba8b774fab5b9302aeb566a, type: 3}
+  - {fileID: 21300000, guid: 4845c7f0efd72344db9cb63396b441a4, type: 3}
+  - {fileID: 21300000, guid: 7f044ff0b8b8c264eaecf23f8b2d98d8, type: 3}
+  - {fileID: 2691171726235068574, guid: 9639ef716e4fec841adafcab19240b60, type: 3}
+  - {fileID: 21300000, guid: 324acdd1039664b4fbe62d808cfae3be, type: 3}
+  - {fileID: -3697134119814788311, guid: d0a315924c8c3d741a217051c0511ffe, type: 3}
+  - {fileID: 21300000, guid: 8e392c03463e67d4fab455a8bb094c28, type: 3}
+  - {fileID: 21300000, guid: 8f8384138f661b348a7290995aad7108, type: 3}
+  - {fileID: -221336637827978425, guid: 03021c232bbcc074fa10d1fbee8eb7a0, type: 3}
+  - {fileID: -6786629801587476536, guid: 1ff0460402ca5ac4c8697c79dcbde697, type: 3}
+  - {fileID: 21300000, guid: 805f568416e0e6d47a235501d1bcfd73, type: 3}
+  - {fileID: -8080614764940022037, guid: 1db41b94d0908db41b320d91c5bb1230, type: 3}
+  - {fileID: 1309951587074730083, guid: 508f0fa4f07e7e348a7e04ec9f26dc8a, type: 3}
+  - {fileID: 2341255445926091361, guid: 4bb32425e7d91bb4d81930123605d5c9, type: 3}
+  - {fileID: 2931009811995275395, guid: 78b7d195d68ccc64191becb62c80d221, type: 3}
+  - {fileID: 21300000, guid: 8d12ffe5040a43e41bd67494e7e4da41, type: 3}
+  - {fileID: 21300000, guid: 6c11ce26e0719794d945ade8d8e873b4, type: 3}
+  - {fileID: 21300000, guid: e56bb556b0d7f0d4792395404ac3c42c, type: 3}
+  - {fileID: 21300000, guid: 7fb5f196c9a763a4c8970a80c94926d4, type: 3}
+  - {fileID: -4720697067988706792, guid: ab61c2b6073a77b47affa5a24d752349, type: 3}
+  - {fileID: 21300000, guid: c09b6e88fe524c441a60d39d0eab6ae1, type: 3}
+  - {fileID: 21300000, guid: b7b93398942b32c4f83658d4d1d4089d, type: 3}
+  - {fileID: 21300000, guid: 66ca8fa9aa73763458f41a308c303721, type: 3}
+  - {fileID: 21300000, guid: 1ab6d5b9e4ee25743bed01ace0c38a52, type: 3}
+  - {fileID: -3517074750089870878, guid: a64f554ae12523243a009d50df6b8b8e, type: 3}
+  - {fileID: 21300000, guid: 4d2a0b5a5663ab049a886d78213fd24b, type: 3}
+  - {fileID: -6288179971597629913, guid: cb0a487b8f80e1c4d892b9b8652b2469, type: 3}
+  - {fileID: 21300000, guid: 138d7e7bfc9a6bd4f8d972900c0d6a86, type: 3}
+  - {fileID: 21300000, guid: 86748a9b60af361499f07226dbd57aab, type: 3}
+  - {fileID: 6970617040960531819, guid: 1a5f7d9bf3dc00f40ac1960d8a743371, type: 3}
+  - {fileID: 7604477119001827004, guid: 1a5f7d9bf3dc00f40ac1960d8a743371, type: 3}
+  - {fileID: -950597567863611924, guid: 1a5f7d9bf3dc00f40ac1960d8a743371, type: 3}
+  - {fileID: -6071081117923969022, guid: 1a5f7d9bf3dc00f40ac1960d8a743371, type: 3}
+  - {fileID: 3498843976217313178, guid: 1a5f7d9bf3dc00f40ac1960d8a743371, type: 3}
+  - {fileID: -4413906365385514264, guid: 1a5f7d9bf3dc00f40ac1960d8a743371, type: 3}
+  - {fileID: 6427227559852750413, guid: 1a5f7d9bf3dc00f40ac1960d8a743371, type: 3}
+  - {fileID: -6959741356017149658, guid: 1a5f7d9bf3dc00f40ac1960d8a743371, type: 3}
+  - {fileID: 9071368417698104532, guid: 1a5f7d9bf3dc00f40ac1960d8a743371, type: 3}
+  - {fileID: -3246256459176722309, guid: 1a5f7d9bf3dc00f40ac1960d8a743371, type: 3}
+  - {fileID: 2757484118162231845, guid: 1a5f7d9bf3dc00f40ac1960d8a743371, type: 3}
+  - {fileID: 5090772447138320906, guid: 1a5f7d9bf3dc00f40ac1960d8a743371, type: 3}
+  - {fileID: 3308591299402537446, guid: 1a5f7d9bf3dc00f40ac1960d8a743371, type: 3}
+  - {fileID: -5599825765821632105, guid: f31a90abcd0641a45a2179b6cb9d4f4d, type: 3}
+  - {fileID: 21300000, guid: 1b23eccb9c41dd84ba9700d267e7e0df, type: 3}
+  - {fileID: 21300000, guid: 5725f9dbaaad1504d9392e1cfca0fba3, type: 3}
+  - {fileID: 2744048980452490030, guid: 9615955cdad70914b814ba087d66164c, type: 3}
+  - {fileID: -5287479496287220225, guid: c391d17ce4d491d4eaa90855952152ab, type: 3}
+  - {fileID: 21300000, guid: 6a2415bc33b4b634480d626e022b8ba6, type: 3}
+  - {fileID: 21300000, guid: c6f719fcc22307940a3859a078658d17, type: 3}
+  - {fileID: 4892697038586486152, guid: 3f95ccfcae00ed449b76d438ea1794c8, type: 3}
+  - {fileID: 21300000, guid: 4e9b783dfbd953d4f8943e69365d5ff2, type: 3}
+  - {fileID: 5225576452912928853, guid: 756a837d400df7048987c0d0e71fa34b, type: 3}
+  - {fileID: -6513935784000473110, guid: 756a837d400df7048987c0d0e71fa34b, type: 3}
+  - {fileID: -5989564498057000814, guid: 756a837d400df7048987c0d0e71fa34b, type: 3}
+  - {fileID: -319421269348655175, guid: 756a837d400df7048987c0d0e71fa34b, type: 3}
+  - {fileID: -2651466027045478579, guid: 756a837d400df7048987c0d0e71fa34b, type: 3}
+  - {fileID: 2556336656138165542, guid: 756a837d400df7048987c0d0e71fa34b, type: 3}
+  - {fileID: -6412730335851356068, guid: 756a837d400df7048987c0d0e71fa34b, type: 3}
+  - {fileID: 5722560631891799820, guid: 756a837d400df7048987c0d0e71fa34b, type: 3}
+  - {fileID: -9184820050610050909, guid: 756a837d400df7048987c0d0e71fa34b, type: 3}
+  - {fileID: 8822367652225748252, guid: 756a837d400df7048987c0d0e71fa34b, type: 3}
+  - {fileID: 4226240654244032299, guid: 756a837d400df7048987c0d0e71fa34b, type: 3}
+  - {fileID: 5597361551711781969, guid: 756a837d400df7048987c0d0e71fa34b, type: 3}
+  - {fileID: -3437295639575445086, guid: 756a837d400df7048987c0d0e71fa34b, type: 3}
+  - {fileID: -3811955204992614855, guid: 756a837d400df7048987c0d0e71fa34b, type: 3}
+  - {fileID: -5509777347881185231, guid: 756a837d400df7048987c0d0e71fa34b, type: 3}
+  - {fileID: -1417949856342478517, guid: 756a837d400df7048987c0d0e71fa34b, type: 3}
+  - {fileID: 6498338999106593242, guid: 756a837d400df7048987c0d0e71fa34b, type: 3}
+  - {fileID: 21300000, guid: 7047121e452036e47849a6e18875a43f, type: 3}
+  - {fileID: 21300000, guid: aa647e1e3ae5b2549b992a52538acfe9, type: 3}
+  - {fileID: 21300000, guid: a992500f226887942b83fb07c1331b06, type: 3}
+  - {fileID: 21300000, guid: 6717192f9d1774a4da22250f6b0aef64, type: 3}
+  - {fileID: 21300000, guid: 1cc6ea8fac80c254880b59367d90f03c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 8
+  - Alises House 2_0
+  - Mesa_0
+  - Galpao_lateral
+  - 3
+  - b1
+  - Lixo Sacola_0
+  - Mapa inteiro
+  - posteesquerda_0
+  - Buraco Largo
+  - b3
+  - Planta_0
+  - Caixas_0
+  - 2
+  - Cadeira_0
+  - postedireita_0
+  - galpao1_0
+  - postebaixo_0
+  - 4
+  - b2
+  - cazinha
+  - 5
+  - baseposte_0
+  - 6
+  - 5
+  - Buraco Fino
+  - galpao_meio
+  - Vazo_0
+  - 1
+  - Sofa_0
+  - predios2
+  - 1
+  - BunkerObjects2_12
+  - BunkerObjects2_10
+  - BunkerObjects2_11
+  - BunkerObjects2_9
+  - BunkerObjects2_8
+  - BunkerObjects2_7
+  - BunkerObjects2_6
+  - BunkerObjects2_5
+  - BunkerObjects2_4
+  - BunkerObjects2_3
+  - BunkerObjects2_2
+  - BunkerObjects2_1
+  - BunkerObjects2_0
+  - Fogao_0
+  - 2
+  - Entulho
+  - Extintor_0
+  - postecima_0
+  - predio_3
+  - AliciasHousesShaders2
+  - Lixo Metal_0
+  - b4
+  - BunkerObjects1_12
+  - BunkerObjects1_11
+  - BunkerObjects1_10
+  - BunkerObjects1_16
+  - BunkerObjects1_15
+  - BunkerObjects1_14
+  - BunkerObjects1_8
+  - BunkerObjects1_9
+  - BunkerObjects1_0
+  - BunkerObjects1_1
+  - BunkerObjects1_2
+  - BunkerObjects1_3
+  - BunkerObjects1_4
+  - BunkerObjects1_5
+  - BunkerObjects1_6
+  - BunkerObjects1_7
+  - BunkerObjects1_13
+  - predios
+  - Square
+  - Alicias House Luz
+  - AliciasHousesShaders
+  - 7
+  m_Tag: Atlas
+  m_IsVariant: 0

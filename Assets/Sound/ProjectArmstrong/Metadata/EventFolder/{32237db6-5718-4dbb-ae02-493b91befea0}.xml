@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="EventFolder" id="{32237db6-5718-4dbb-ae02-493b91befea0}">
+		<property name="name">
+			<value>sfx (antigo antes Giandro mexer)</value>
+		</property>
+		<relationship name="folder">
+			<destination>{aedcbb77-df73-4316-9e22-38649c5d0cdd}</destination>
+		</relationship>
+	</object>
+</objects>
